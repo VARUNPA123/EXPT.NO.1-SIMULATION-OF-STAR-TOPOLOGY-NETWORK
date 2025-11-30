@@ -5,8 +5,8 @@
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
 # EQUIPMENTS REQUIRED
 
-Desktop computer
-Cisco Packet Tracer 5.0 Software.
+1. Desktop computer
+2. Cisco Packet Tracer 5.0 Software.
 
 
 # PROCEDURE
@@ -20,23 +20,14 @@ Cisco Packet Tracer 5.0 Software.
 8. click on the PC Terminal and Select Terminal from the Desktop tab to verify the connectivity between the PC Terminals using Ping Command.
 9. Select “add simple PDU” from tool bar and place it in source and destination PC Terminals to verify the connectivity
 
-
-
 # IP CONNECTIVITY TABLE
-
+<img width="1262" height="292" alt="image" src="https://github.com/user-attachments/assets/3abd0367-e19b-446b-a45a-f9dc11de209c" />
 
 # NETWORK DIAGRAM
-<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/098737d0-cbd8-49c8-86a6-30e399743ba7" />
-
-
 
 
 # OUTPUT
 <img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/bbc27508-8f26-4511-9e3c-4b21658cbb8a" />
 
-
-
 # RESULT
-
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
-
