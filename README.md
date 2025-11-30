@@ -26,9 +26,8 @@
 # NETWORK DIAGRAM
 <img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/1e2b7f89-5891-4153-b905-e05ee014cc2c" />
 
-
 # OUTPUT
-<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/bbc27508-8f26-4511-9e3c-4b21658cbb8a" />
+<img width="1014" height="622" alt="image" src="https://github.com/user-attachments/assets/4b8a7942-ad8c-4be9-8ed9-56c98a19a6ec" />
 
 # RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified.
