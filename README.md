@@ -1,5 +1,5 @@
-# DATE
-# EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
+
+## EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
@@ -24,6 +24,7 @@
 <img width="1262" height="292" alt="image" src="https://github.com/user-attachments/assets/3abd0367-e19b-446b-a45a-f9dc11de209c" />
 
 # NETWORK DIAGRAM
+<img width="1013" height="587" alt="image" src="https://github.com/user-attachments/assets/1e2b7f89-5891-4153-b905-e05ee014cc2c" />
 
 
 # OUTPUT
